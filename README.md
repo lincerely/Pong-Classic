@@ -9,4 +9,4 @@ The original pong in youtube (that I try to recreate): <https://www.youtube.com/
 
 ## Credit
 
-Bit 5x3 Font - <http://www.mattlag.com/bitfonts/>
+Bit 5x3 Font by Matt Lagrandeur<http://www.mattlag.com/bitfonts/>
